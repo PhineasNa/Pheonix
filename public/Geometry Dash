@@ -1,0 +1,10 @@
+<body>
+  <h1>Geometry dash <h1>
+      <pre>
+				<br/>
+			</pre>
+      <img src=http://steamunlock.com/uploads/steam/apps/322170/ss_1c981df1504649d2ccfcc328e0a5d8bdff81043e.600x338.jpg?t=1419273141>
+      <img src=https://s1.dmcdn.net/NH_K4/1280x720-GjQ.jpg>
+      <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRopkaqnuYR_dNIF4Wvs8uzqnn3IVc78fmGWgPVHE-WSpFBs0qM>
+      <img src=https://s2.dmcdn.net/OTQfa/1280x720-lFF.jpg>
+      <h1>Geometry dash 2.1 <img src=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjsPtgFyYMFkkECEQ7HTQjosBCDl7sYjNrR_dDwIVX0gL9QfXC> body {background-color: #00ffff} h1 {color:rgb(255, 102, 102)} img {display: block; margin: auto; width:69%} function myFunction() {document.getElementById("testing").innerHTML= "Video games!!";}
